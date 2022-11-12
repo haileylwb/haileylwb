@@ -22,5 +22,4 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 
 <h2>Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=haileylwb&theme=blue-green"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haileylwb&theme=blue-green"/>
