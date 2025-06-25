@@ -1,5 +1,6 @@
-<h1 align="center">🌸 Hey! I'm Hailey 🌸</h1>
-<h3 align="center">💻 Computer Science @ University of Rochester 💻</h3>
+<h1 align="center">Hey 👋 I'm Hailey </h1>
+<h3 align="center">Studying Computer Science 💻 </h3>
+<h3 align="center">@ University of Rochester 💻 </h3>
 
 - I am interested in full-stack web development
 - You can reach me at: **hwongbud@u.rochester.edu**
