@@ -1,6 +1,6 @@
 <h1 align="left">Hey, I'm Hailey! 👋 </h1>
 
-💻 An incoming third-year Computer Science student passionate about Software and Product Development.
+An incoming third-year Computer Science student passionate about Software and Product Development.
 
 📧 Feel free to reach out! **hwongbud@u.rochester.edu**
 
