@@ -1,9 +1,8 @@
-<h1 align="center">Hey 👋 I'm Hailey </h1>
-<h3 align="center">Studying Computer Science 💻 </h3>
-<h3 align="center">@ University of Rochester 💻 </h3>
+<h1 align="left">Hey, I'm Hailey! 👋 </h1>
 
-- I am interested in full-stack web development
-- You can reach me at: **hwongbud@u.rochester.edu**
+I'm an incoming junior studying Computer Science at the University of Rochester. 
+
+You can reach me at: **hwongbud@u.rochester.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
