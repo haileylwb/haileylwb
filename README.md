@@ -4,14 +4,14 @@ An incoming third-year Computer Science student at the University of Rochestter 
 
 Feel free to reach out! **hwongbud@u.rochester.edu**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/haileylwb/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haileylwb" height="20" width="30" />
-  </a>
-</p>
+&nbsp;
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Other Projects:</h3>
+- [Uniqlo UX Case Study](https://medium.com/@haileylwb/reimagining-retail-a-uniqlo-ux-case-study-6b12ea498ce2)
+
+&nbsp;
+
+<h3 align="left">Languages & Tools:</h3>
 <p align="left">
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
