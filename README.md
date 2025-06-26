@@ -6,11 +6,6 @@ Feel free to reach out! **hwongbud@u.rochester.edu**
 
 &nbsp;
 
-<h3 align="left">Other Projects:</h3>
-- [Uniqlo UX Case Study](https://medium.com/@haileylwb/reimagining-retail-a-uniqlo-ux-case-study-6b12ea498ce2)
-
-&nbsp;
-
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
