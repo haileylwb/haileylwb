@@ -4,8 +4,6 @@ An incoming third-year Computer Science student at the University of Rochestter 
 
 Feel free to reach out! **hwongbud@u.rochester.edu**
 
-&nbsp;
-
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
